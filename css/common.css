@@ -1,0 +1,12 @@
+h2{
+    color:#000;
+    font-size: 22px;
+    line-height: 1.4;
+}
+.bg-gray-s1{
+    background-color: #fafaf9;
+}
+.bg-gray-s2{
+    background-color: #f3f3f3;
+}
+.mt100{margin-top: 100px;}
